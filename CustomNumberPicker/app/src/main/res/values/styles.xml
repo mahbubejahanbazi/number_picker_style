@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="number_picker_1" parent="@style/Theme.AppCompat">
+        <item name="colorControlNormal">#00000000</item>
+        <item name="android:fontFamily">@font/calibri_regular</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColorPrimary">#373030</item>
+    </style>
+
+    <style name="number_picker_2" parent="@style/Theme.AppCompat">
+        <item name="colorControlNormal">#03A9F4</item>
+        <item name="android:fontFamily">@font/quicksand_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorPrimary">#673AB7</item>
+    </style>
+
+    <style name="number_picker_3" parent="@style/Theme.AppCompat">
+        <item name="colorControlNormal">#A1ABAF</item>
+        <item name="android:fontFamily">@font/quicksand_light</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColorPrimary">#171519</item>
+    </style>
+
+    <style name="number_picker_4" parent="@style/Theme.AppCompat">
+        <item name="colorControlNormal">#D39438</item>
+        <item name="android:fontFamily">@font/calibri_regular</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColorPrimary">#452B05</item>
+    </style>
+</resources>
